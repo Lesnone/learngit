@@ -7,3 +7,5 @@ print('complete init hello')
 
 # add comment'
 # add author'
+
+exit(1)
