@@ -12,3 +12,5 @@ print('complete init hello')
 # add author x
 
 exit(1)
+
+# set exit=2
